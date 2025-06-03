@@ -175,7 +175,7 @@ Use early stopping to prevent overfitting
 
 model.h5 – Trained model
 
-dataset/ – Jet images
+dataset– Jet images
 
 Final Priject Report – Predictions & reports
 
